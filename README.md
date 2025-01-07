@@ -19,8 +19,6 @@ Let’s work together and turn your vision into reality! 🌟
 </ul>
 
 <h1>Skills Set💻:</h1>
-
-# Programming Languages & Tools
 <h1 align="center">Frontend</h1>
 Here are the frontend languages I work with:
 
