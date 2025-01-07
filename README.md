@@ -22,7 +22,7 @@ Let’s work together and turn your vision into reality! 🌟
 <table>
 <tr>
 <td>
-<h1>Frontend</h1>
+#Frontend
 <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s width= "100px" height= "100px"> 
 <img src = https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg width= "100px" height= "100px"> 
 <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s width= "100px" height= "100px"> 
@@ -30,7 +30,7 @@ Let’s work together and turn your vision into reality! 🌟
 </td>
 
  <td>
-     <h1>Languages</h1>
+     #Languages
      <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTGSDDmGK9JX3Il3ja7LUr2fJaUS0fgQsCw&s width= "100px" height= "100px"> 
      <img src = https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg width= "100px" height= "100px"> 
 <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s width= "100px" height= "100px"> 
@@ -38,7 +38,7 @@ Let’s work together and turn your vision into reality! 🌟
 
  </td>
  <td>
-     <h1>Others</h1>
+    #Others
      <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTGSDDmGK9JX3Il3ja7LUr2fJaUS0fgQsCw&s width= "100px" height= "100px"> 
      <img src = https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg width= "100px" height= "100px"> 
 <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s width= "100px" height= "100px"> 
@@ -48,7 +48,7 @@ Let’s work together and turn your vision into reality! 🌟
 
 <tr>
     <td>
-    <h1>Backned</h1>
+    #backned
  <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s width= "100px" height= "100px"> 
 <img src = https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg width= "100px" height= "100px"> 
 <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s width= "100px" height= "100px"> 
