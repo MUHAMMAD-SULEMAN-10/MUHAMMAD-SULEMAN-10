@@ -19,7 +19,7 @@ Let’s work together and turn your vision into reality! 🌟
 
 <h1>🔧 **Skills Set** 💻</h1>
 
-<table style= "width: 100%; table-layout: fixed; border-spacing: 10px; border-collapse: separate;">
+<table ">
   <tr>
     <!-- Frontend Section -->
     <td style="vertical-align: top; width: 33%; text-align: center;">
@@ -29,13 +29,12 @@ Let’s work together and turn your vision into reality! 🌟
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="100px" height="100px">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="100px" height="100px">
     </td>
-      <td>
+    <td style="vertical-align: top; width: 33%; text-align: center;>
     <h1>Backend</h1>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="100px" height="100px">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="100px" height="100px">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="100px" height="100px">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="100px" height="100px">
-
    </td>
      <!-- Second Column: Languages -->
     <td style="vertical-align: top; width: 33%; text-align: center;">
