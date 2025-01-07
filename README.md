@@ -46,7 +46,6 @@ Let’s work together and turn your vision into reality! 🌟
           </div>
         </div>
       </td>
-      
       <!-- Languages Section at the top, next to Frontend & Backend -->
       <td align="center" style="padding: 20px;">
         <h3>Languages</h3>
@@ -56,8 +55,7 @@ Let’s work together and turn your vision into reality! 🌟
           <img src="path_to_language_logo_3" alt="Language 3" width="100" />
         </div>
       </td>
-
-      <!-- Other Tools Section at the top, next to Languages -->
+  <!-- Other Tools Section at the top, next to Languages -->
       <td align="center" style="padding: 20px;">
         <h3>Other Tools</h3>
         <div>
