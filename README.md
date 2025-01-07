@@ -28,19 +28,13 @@ Let’s work together and turn your vision into reality! 🌟
 <img src =  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s  width= "100px" height= "100px">
 
 <h1>Backned</h1>
- </td> </tr>
+ </td>
 
-<tr><h1>Languages</h1>
-<td>
+ <td><h1>Languages</h1></td>
+ <td><h1>Others</h1></td>
+ 
+ </tr>
 
-    
-</td>
-
-</tr>
-<tr><h1>Others</h1>
-<td>
-    
-</td>
 
 
 
