@@ -18,26 +18,22 @@ Let’s work together and turn your vision into reality! 🌟
 </ul>
 
  <h1>🔧 **Skills Set** 💻</h1>
+
+<table>
+<tr>
+<th>Frontend</th>
+<td></td>
+<th>Backned</th>
+<td></td>
+
+<th>Languages</th>
+<td></td>
+<th>Others</th>
+<td></td>
+</tr>
+
+
     
-    <table >
-        <tr>
-            <th>Frontend / Backend</th>
-            <th>Languages</th>
-            <th>Other</th>
-        </tr>
-        <tr>
-            <td>
-                <!-- Frontend and Backend in one column -->
-                <p><strong>Frontend</strong></p>
-                <p><strong>Backend</strong></p>
-            </td>
-            <td>
-                <!-- Placeholder for Languages -->
-                <p>Languages</p>
-            </td>
-            <td>
-                <!-- Placeholder for Other -->
-                <p>Other</p>
-            </td>
-        </tr>
-    </table>
+</table>
+    
+
