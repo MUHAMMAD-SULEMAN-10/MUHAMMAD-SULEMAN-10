@@ -38,7 +38,7 @@ Let’s work together and turn your vision into reality! 🌟
         </div>
       </td>
       <!-- Languages Section -->
-      <td align="center" style="padding: 20px;">
+      <td align="center" style="padding: 10px;">
         <h3>Languages</h3>
         <div>
           <img src="path_to_language_logo_1" alt="Language 1" width="100" />
@@ -47,7 +47,7 @@ Let’s work together and turn your vision into reality! 🌟
         </div>
       </td>
       <!-- Other Tools Section -->
-      <td align="center" style="padding: 20px;">
+      <td align="center" style="padding: 10px;">
         <h3>Other Tools</h3>
         <div>
           <img src="path_to_tool_logo_1" alt="Tool 1" width="100" />
