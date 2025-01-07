@@ -17,40 +17,20 @@ Let’s work together and turn your vision into reality! 🌟
     <li>🤝 <strong>Don't hesitate to reach out! Let's connect and start a conversation!</strong></li>
 </ul>
 
-<body>
-    <!-- Skills Set Heading -->
-    <h1>🔧 **Skills Set** 💻</h1>
-    
-    <!-- Skills Table -->
-    <table border="1" cellpadding="10">
-        <tr>
-            <th>Frontend</th>
-            <th>Backend</th>
-            <th>Others</th>
-        </tr>
-        <tr>
-            <td>
-                <ul>
-                    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="50" height="50"></li>
-                    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/CSS_3_logo_and_wordmark.svg/512px-CSS_3_logo_and_wordmark.svg.png" alt="CSS" width="50" height="50"></li>
-                    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/JavaScript_logo_%28stack%29.svg/512px-JavaScript_logo_%28stack%29.svg.png" alt="JavaScript" width="50" height="50"></li>
-                    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/React_Logo_2023.png/512px-React_Logo_2023.png" alt="React" width="50" height="50"></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Node.js_logo_2015.svg/512px-Node.js_logo_2015.svg.png" alt="Node.js" width="50" height="50"></li>
-                    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/MongoDB-Logo.svg/512px-MongoDB-Logo.svg.png" alt="MongoDB" width="50" height="50"></li>
-                    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Python_logo_2023.svg/512px-Python_logo_2023.svg.png" alt="Python" width="50" height="50"></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Git-Logo-1788C.png" alt="Git" width="50" height="50"></li>
-                    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Agile_Icon.svg/512px-Agile_Icon.svg.png" alt="Agile" width="50" height="50"></li>
-                    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Problem_Solving_icon.svg/512px-Problem_Solving_icon.svg.png" alt="Problem Solving" width="50" height="50"></li>
-                </ul>
-            </td>
-        </tr>
-    </table>
-</body>
+# 🔧 **Skills Set** 💻
+
+## Frontend
+- ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png)
+- ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/CSS_3_logo_and_wordmark.svg/512px-CSS_3_logo_and_wordmark.svg.png)
+- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/JavaScript_logo_%28stack%29.svg/512px-JavaScript_logo_%28stack%29.svg.png)
+- ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/React_Logo_2023.png/512px-React_Logo_2023.png)
+
+## Backend
+- ![Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Node.js_logo_2015.svg/512px-Node.js_logo_2015.svg.png)
+- ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/MongoDB-Logo.svg/512px-MongoDB-Logo.svg.png)
+- ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Python_logo_2023.svg/512px-Python_logo_2023.svg.png)
+
+## Others
+- ![Git](https://upload.wikimedia.org/wikipedia/commons/1/17/Git-Logo-1788C.png)
+- ![Agile](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Agile_Icon.svg/512px-Agile_Icon.svg.png)
+- ![Problem Solving](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Problem_Solving_icon.svg/512px-Problem_Solving_icon.svg.png)
