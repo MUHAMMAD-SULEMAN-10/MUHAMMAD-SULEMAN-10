@@ -29,8 +29,7 @@ Let’s work together and turn your vision into reality! 🌟
 <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s width= "100px" height= "100px"> 
 <img src =  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s  width= "100px" height= "100px">
  </td>
- <td>Backned</td>
- 
+
  <td>
      <h1>Languages</h1>
      <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTGSDDmGK9JX3Il3ja7LUr2fJaUS0fgQsCw&s width= "100px" height= "100px"> 
