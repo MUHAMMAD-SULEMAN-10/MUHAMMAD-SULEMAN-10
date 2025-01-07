@@ -19,7 +19,7 @@ Let’s work together and turn your vision into reality! 🌟
 
 <h1>🔧 **Skills Set** 💻</h1>
 
-<table style="width: 100%; table-layout: fixed; border-spacing: 10px;">
+<table style= "width: 100%; table-layout: fixed; border-spacing: 10px; border-collapse: separate;">
   <tr>
     <!-- Frontend Section -->
     <td style="vertical-align: top; width: 33%; text-align: center;">
