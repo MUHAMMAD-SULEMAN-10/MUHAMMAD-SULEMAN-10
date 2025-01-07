@@ -19,45 +19,51 @@ Let’s work together and turn your vision into reality! 🌟
 </ul>
 
 <h1>Skills Set💻:</h1>
+# Programming Languages & Tools
+
+## Technologies Overview
+
 <div align="center">
   <table>
     <tr>
-      <!-- Frontend Section -->
+      <!-- Frontend and Backend Section in one column -->
       <td align="center" style="padding: 20px;">
-        <h3>Frontend Languages</h3>
+        <h3>Frontend & Backend</h3>
         <div>
+          <h4>Frontend Languages</h4>
+          <div>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="50px" height="50px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50px" height="50px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="50px" height="50px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="50px" height="50px">
-        </div>
-        <h4>Backend Languages</h4>
-        <div>
+          </div>
+          <h4>Backend Languages</h4>
+          <div>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="50px" height="50px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50px" height="50px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="50px" height="50px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="50px" height="50px">
+          </div>
         </div>
       </td>
-      <!-- Languages Section -->
-      <td align="center" style="padding: 10px;">
+      
+      <!-- Languages Section at the top, next to Frontend & Backend -->
+      <td align="center" style="padding: 20px;">
         <h3>Languages</h3>
         <div>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="50px" height="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50px" height="50px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="50px" height="50px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="50px" height="50px">
+          <img src="path_to_language_logo_1" alt="Language 1" width="100" />
+          <img src="path_to_language_logo_2" alt="Language 2" width="100" />
+          <img src="path_to_language_logo_3" alt="Language 3" width="100" />
         </div>
       </td>
-     <!-- Other Tools Section at the top, next to Languages -->
+
+      <!-- Other Tools Section at the top, next to Languages -->
       <td align="center" style="padding: 20px;">
         <h3>Other Tools</h3>
         <div>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="50px" height="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50px" height="50px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="50px" height="50px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="50px" height="50px">
-          
+          <img src="path_to_tool_logo_1" alt="Tool 1" width="100" />
+          <img src="path_to_tool_logo_2" alt="Tool 2" width="100" />
+          <img src="path_to_tool_logo_3" alt="Tool 3" width="100" />
         </div>
       </td>
     </tr>
