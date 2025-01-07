@@ -26,37 +26,40 @@ Let’s work together and turn your vision into reality! 🌟
       <td align="center" style="padding: 20px;">
         <h3>Frontend Languages</h3>
         <div>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" class="small-icon">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" class="small-icon">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" class="small-icon">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" class="small-icon">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="50px" height="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50px" height="50px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="50px" height="50px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="50px" height="50px">
         </div>
         <h4>Backend Languages</h4>
         <div>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" class="small-icon">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" class="small-icon">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" class="small-icon">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" class="small-icon">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="50px" height="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50px" height="50px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="50px" height="50px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="50px" height="50px">
         </div>
       </td>
       <!-- Languages Section -->
       <td align="center" style="padding: 10px;">
         <h3>Languages</h3>
         <div>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" class="small-icon">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" class="small-icon">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" class="small-icon">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" class="small-icon">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="50px" height="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50px" height="50px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="50px" height="50px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="50px" height="50px">
         </div>
       </td>
       <!-- Other Tools Section -->
       <td align="center" style="padding: 10px;">
         <h3>Other Tools</h3>
         <div>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" class="small-icon">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" class="small-icon">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" class="small-icon">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" class="small-icon">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="50px" height="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50px" height="50px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="50px" height="50px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="50px" height="50px">
+
+        
+
       </td>
     </tr>
   </table>
