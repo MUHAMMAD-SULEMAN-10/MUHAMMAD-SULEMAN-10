@@ -19,7 +19,6 @@ Let’s work together and turn your vision into reality! 🌟
 </ul>
 
 <h1>Skills Set💻:</h1>
-## Technologies Overview
 
 <div align="center">
   <table>
