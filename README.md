@@ -19,7 +19,7 @@ Let’s work together and turn your vision into reality! 🌟
 
  <h1>🔧 **Skills Set** 💻</h1>
 
-<table>
+<table width= "500px" height= "500px">
 <tr >
 <h1>Frontend</h1>
 <td >
@@ -30,9 +30,6 @@ Let’s work together and turn your vision into reality! 🌟
 </td>
 </tr>
 
-#Backned
-
-<td></td>
 
 <th>Languages</th>
 <td></td>
