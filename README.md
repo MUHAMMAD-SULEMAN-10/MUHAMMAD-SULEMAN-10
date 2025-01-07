@@ -1,3 +1,4 @@
+ #Frontned 
 <h1>About me 🚀:</h1>
 
 Hello! 👋 I'm a MERN Stack Engineer based in Pakistan, with a strong command of the MERN stack and a passion for building innovative, seamless solutions that push the boundaries of web development. 
@@ -22,7 +23,7 @@ Let’s work together and turn your vision into reality! 🌟
 <table>
 <tr>
 <td>
- #Frontend:
+ ##Frontend 
 <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s width= "50px" height= "50px"> 
 <img src = https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg width= "50px" height= "50px"> 
 <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s width= "50px" height= "50px"> 
