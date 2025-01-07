@@ -30,7 +30,7 @@ Let’s work together and turn your vision into reality! 🌟
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="100px" height="100px">
     </td>
 
-    <!-- Backend Section -->
+<!-- Backend Section-->
     <td style="vertical-align: top; width: 33%; text-align: center;">
       <h1>Backend</h1>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="100px" height="100px">
@@ -60,6 +60,7 @@ Let’s work together and turn your vision into reality! 🌟
 </table>
 
 
+    
 
 
 
