@@ -19,7 +19,7 @@ Let’s work together and turn your vision into reality! 🌟
 </ul>
 
 <h1>Skills Set💻:</h1>
-<h1 align="center">Frontend</h1>
+<h1 align="center" text-color = "yellow" >Frontend</h1>
 Here are the frontend languages I work with:
 
 <div align="center">
