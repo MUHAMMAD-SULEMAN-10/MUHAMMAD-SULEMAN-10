@@ -21,7 +21,7 @@ Let’s work together and turn your vision into reality! 🌟
 
 <table>
 <tr>
-<td  style="vertical-align: top; width: 33%; text-align: center;">
+<td  >
 <h1>Frontend</h1>
 <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s width= "50px" height= "50px"> 
 <img src = https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg width= "50px" height= "50px"> 
@@ -37,7 +37,7 @@ Let’s work together and turn your vision into reality! 🌟
 
 
 
- <td  style="vertical-align: top; width: 33%; text-align: center;">
+ <td  style="margin-top: -40px;">
      <h1>Languages</h1>
      <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTGSDDmGK9JX3Il3ja7LUr2fJaUS0fgQsCw&s width= "50px" height= "50px"> 
      <img src = https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg width= width= "50px" height= "50px"> 
