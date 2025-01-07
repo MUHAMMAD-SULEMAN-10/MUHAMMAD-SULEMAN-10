@@ -20,50 +20,6 @@ Let’s work together and turn your vision into reality! 🌟
 
 <h1>Skills Set💻:</h1>
 
-<table>
-<tr>
-<td>
-  
-<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s width= "50px" height= "50px"> 
-<img src = https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg width= "50px" height= "50px"> 
-<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s width= "50px" height= "50px"> 
-<img src =  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s  width= "50px" height= "50px">  
-
-
-<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s width= "50px" height= "50px"> 
-<img src = https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg width= width= "50px" height= "50px"> 
-<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s width= "50px" height= "50px"> 
-<img src =  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s width= "50px" height= "50px">    
-</td>
-
-
- <td>
-     
-     <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTGSDDmGK9JX3Il3ja7LUr2fJaUS0fgQsCw&s width= "50px" height= "50px"> 
-     <img src = https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg width= width= "50px" height= "50px"> 
-     <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s width= width= "50px" height= "50px"> 
-     <img src =  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s  width= width= "50px" height= "50px">
-     <br>
-<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s width= "50px" height= "50px"> 
-<img src = https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg width= width= "50px" height= "50px"> 
-<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s width= "50px" height= "50px"> 
-<img src =  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s width= "50px" height= "50px">    
-
-
- </td>
- <td  >
-   
-    <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTGSDDmGK9JX3Il3ja7LUr2fJaUS0fgQsCw&s width= "50px" height= "50px"> 
-    <img src = https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg width= "50px" height= "50px"> 
-    <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s width= "50px" height= "50px"> 
-    <img src =  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s width= "50px" height= "50px">
- </td>
-  
-</tr>
-</table>
-
-
-<br><br>
 # Programming Languages & Tools
 
 ## Frontend Languages
@@ -100,15 +56,7 @@ Here are the other tools and technologies I use for development:
 
 ---
 
-## Languages
-Here are the languages I use for development:
 
-<div align="center">
-  <!-- Language Logos -->
-  <img src="path_to_language_logo_1" alt="Language 1" width="100"/>
-  <img src="path_to_language_logo_2" alt="Language 2" width="100"/>
-  <img src="path_to_language_logo_3" alt="Language 3" width="100"/>
-</div>
 
 
 
