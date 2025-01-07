@@ -21,8 +21,8 @@ Let’s work together and turn your vision into reality! 🌟
 
 <table>
 <tr >
-<th width= "300px" height= "500px"><h1>Frontend</h1></th>
-<td>
+<th><h1>Frontend</h1></th>
+<td  width= "300px" height= "500px">
 <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s width= "100px" height= "100px"> 
 <img src = https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg width= "100px" height= "100px"> 
 <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s width= "100px" height= "100px"> 
