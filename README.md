@@ -17,44 +17,47 @@ Let’s work together and turn your vision into reality! 🌟
     <li>🤝 <strong>Don't hesitate to reach out! Let's connect and start a conversation!</strong></li>
 </ul>
 
- <h1>🔧 **Skills Set** 💻</h1>
+<h1>🔧 **Skills Set** 💻</h1>
 
-<table>
-<tr>
-<td>
-<h1>Frontend</h1>
-<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s width= "100px" height= "100px"> 
-<img src = https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg width= "100px" height= "100px"> 
-<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s width= "100px" height= "100px"> 
- <img src =  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s  width= "100px" height= "100px">  
- <h1>Backned</h1>
- <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s width= "100px" height= "100px"> 
-<img src = https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg width= "100px" height= "100px"> 
-<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s width= "100px" height= "100px"> 
-<img src =  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s  width= "100px" height= "100px">
-</td>
+<table style="width: 100%; table-layout: fixed; border-spacing: 10px;">
+  <tr>
+    <!-- Frontend Section -->
+    <td style="vertical-align: top; width: 33%; text-align: center;">
+      <h1>Frontend</h1>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="100px" height="100px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="100px" height="100px">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="100px" height="100px">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="100px" height="100px">
+    </td>
 
- <td >
-     <h1>Languages</h1>
-     <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTGSDDmGK9JX3Il3ja7LUr2fJaUS0fgQsCw&s width= "100px" height= "100px"> 
-     <img src = https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg width= "100px" height= "100px"> 
-<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s width= "100px" height= "100px"> 
-<img src =  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s  width= "100px" height= "100px">
+    <!-- Backend Section -->
+    <td style="vertical-align: top; width: 33%; text-align: center;">
+      <h1>Backend</h1>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="100px" height="100px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="100px" height="100px">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="100px" height="100px">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="100px" height="100px">
+    </td>
 
- </td>
- <td>
-   <h1>Others</h1>
-     <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTGSDDmGK9JX3Il3ja7LUr2fJaUS0fgQsCw&s width= "100px" height= "100px"> 
-     <img src = https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg width= "100px" height= "100px"> 
-<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s width= "100px" height= "100px"> 
-<img src =  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s  width= "100px" height= "100px">
- </td>
-  
-</tr>
+    <!-- Languages Section -->
+    <td style="vertical-align: top; width: 33%; text-align: center;">
+      <h1>Languages</h1>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTGSDDmGK9JX3Il3ja7LUr2fJaUS0fgQsCw&s" width="100px" height="100px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="100px" height="100px">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="100px" height="100px">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="100px" height="100px">
+    </td>
+
+    <!-- Others Section -->
+    <td style="vertical-align: top; width: 33%; text-align: center;">
+      <h1>Others</h1>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTGSDDmGK9JX3Il3ja7LUr2fJaUS0fgQsCw&s" width="100px" height="100px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="100px" height="100px">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="100px" height="100px">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="100px" height="100px">
+    </td>
+  </tr>
 </table>
-
-
-
 
 
 
