@@ -20,7 +20,7 @@ Let’s work together and turn your vision into reality! 🌟
  <h1>🔧 **Skills Set** 💻</h1>
 
 <table>
-<tr></tr>
+<tr>
 <h1>Frontend</h1>
 <td >
 <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s width= "100px" height= "100px"> 
