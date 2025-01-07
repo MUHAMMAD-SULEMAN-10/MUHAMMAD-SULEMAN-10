@@ -41,8 +41,7 @@ Here are the frontend languages I work with:
 
 ---
 
-## Other Tools & Technologies
-
+<h1 align="center"> Other </h1>
 Here are the other tools and technologies I use for development:
 
 <div align="center">
