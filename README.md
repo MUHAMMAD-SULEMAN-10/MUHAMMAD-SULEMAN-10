@@ -32,7 +32,7 @@ Let’s work together and turn your vision into reality! 🌟
 <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s width= "100px" height= "100px"> 
 </td>
   <td>
-   <i,g src =  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s  width= "100px" height= "100px"?
+   <img src =  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s  width= "100px" height= "100px"?
   </td>  
 <th>Backned</th>
 <td></td>
