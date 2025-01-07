@@ -1,4 +1,4 @@
- #Frontned 
+
 <h1>About me 🚀:</h1>
 
 Hello! 👋 I'm a MERN Stack Engineer based in Pakistan, with a strong command of the MERN stack and a passion for building innovative, seamless solutions that push the boundaries of web development. 
@@ -23,7 +23,7 @@ Let’s work together and turn your vision into reality! 🌟
 <table>
 <tr>
 <td>
- ##Frontend 
+  
 <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s width= "50px" height= "50px"> 
 <img src = https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg width= "50px" height= "50px"> 
 <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s width= "50px" height= "50px"> 
@@ -61,6 +61,54 @@ Let’s work together and turn your vision into reality! 🌟
   
 </tr>
 </table>
+
+
+<br><br>
+# Programming Languages & Tools
+
+## Frontend Languages
+Here are the frontend languages I work with:
+
+<div align="center">
+  <!-- Your Frontend Language Logos -->
+  <img src="path_to_logo_1" alt="Frontend Language 1" width="100"/>
+  <img src="path_to_logo_2" alt="Frontend Language 2" width="100"/>
+  <img src="path_to_logo_3" alt="Frontend Language 3" width="100"/>
+  
+  <!-- Backend Language Symbols -->
+  <div>
+    <h4>Backend Languages</h4>
+    <img src="path_to_backend_symbol_1" alt="Backend Language 1" width="50"/>
+    <img src="path_to_backend_symbol_2" alt="Backend Language 2" width="50"/>
+    <img src="path_to_backend_symbol_3" alt="Backend Language 3" width="50"/>
+  </div>
+</div>
+
+---
+
+## Other Tools & Technologies
+
+Here are the other tools and technologies I use for development:
+
+<div align="center">
+  <!-- Tools Images -->
+  <img src="path_to_tool_logo_1" alt="Tool 1" width="100"/>
+  <img src="path_to_tool_logo_2" alt="Tool 2" width="100"/>
+  <img src="path_to_tool_logo_3" alt="Tool 3" width="100"/>
+  <img src="path_to_tool_logo_4" alt="Tool 4" width="100"/>
+</div>
+
+---
+
+## Languages
+Here are the languages I use for development:
+
+<div align="center">
+  <!-- Language Logos -->
+  <img src="path_to_language_logo_1" alt="Language 1" width="100"/>
+  <img src="path_to_language_logo_2" alt="Language 2" width="100"/>
+  <img src="path_to_language_logo_3" alt="Language 3" width="100"/>
+</div>
 
 
 
