@@ -7,7 +7,7 @@ I love collaborating with others to bring ideas to life and create impactful dig
 Let’s work together and turn your vision into reality! 🌟
 
 
-<h1>🌟 Hello, I am <strong>Muhammad Suleman</strong> 👋</h1>
+
     <ul>
         <li>💻 <strong>Currently Working</strong> as a <strong>MERN Stack Engineer</strong></li>
         <li>🎓 <strong>Teaching</strong> at <a href="https://www.facebook.com/iCodeguru" target="_blank">iCode Guru</a></li>
