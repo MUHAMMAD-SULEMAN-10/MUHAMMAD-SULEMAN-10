@@ -5,7 +5,7 @@ Hello! 👋 I'm a MERN Stack Engineer based in Pakistan, with a strong command o
 My passion lies in creating exceptional user experiences 💻 and actively contributing to open-source projects 🌍.
 I love collaborating with others to bring ideas to life and create impactful digital solutions.
 Let’s work together and turn your vision into reality! 🌟
-
+<hr>
 
 <ul>
     <li>💻 <strong>Currently Working</strong> as a <strong>MERN Stack Engineer</strong></li>
