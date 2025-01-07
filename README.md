@@ -30,11 +30,23 @@ Let’s work together and turn your vision into reality! 🌟
 <h1>Backned</h1>
  </td> </tr>
 
-<th>Languages</th>
-<td></td>
-<th>Others</th>
-<td></td>
+<tr><h1>Languages</h1>
+<td>
+
+    
+</td>
+
 </tr>
+<tr><h1>Others</h1>
+<td>
+    
+</td>
+
+
+
+    
+</tr>
+
 
 
     
