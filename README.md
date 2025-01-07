@@ -22,7 +22,10 @@ Let’s work together and turn your vision into reality! 🌟
 <table>
 <tr>
 <th>Frontend</th>
-<td></td>
+<td>
+<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s?
+    
+</td>
 <th>Backned</th>
 <td></td>
 
