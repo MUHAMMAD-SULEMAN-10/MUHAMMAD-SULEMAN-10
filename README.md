@@ -44,7 +44,7 @@ Let’s work together and turn your vision into reality! 🌟
         </div>
       </td>
       <!-- Languages Section at the top, next to Frontend & Backend -->
-      <td align="center" style="margin-top: 20px;>
+      <td align="center" style="margin-top: 20px; "padding: 20px;">
         <h3>Languages</h3>
         <div>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="50px" height="50px">
