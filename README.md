@@ -65,6 +65,51 @@ Here are the other tools and technologies I use for development:
 
 
 
+<br><br>
+<div align="center">
+  <table>
+    <tr>
+      <!-- Frontend Section -->
+      <td align="center" style="padding: 20px;">
+        <h3>Frontend Languages</h3>
+        <div>
+          <img src="path_to_frontend_logo_1" alt="Frontend Language 1" width="100" />
+          <img src="path_to_frontend_logo_2" alt="Frontend Language 2" width="100" />
+          <img src="path_to_frontend_logo_3" alt="Frontend Language 3" width="100" />
+        </div>
+        <h4>Backend Languages</h4>
+        <div>
+          <img src="path_to_backend_symbol_1" alt="Backend Language 1" width="50" />
+          <img src="path_to_backend_symbol_2" alt="Backend Language 2" width="50" />
+          <img src="path_to_backend_symbol_3" alt="Backend Language 3" width="50" />
+        </div>
+      </td>
+      
+      <!-- Languages Section -->
+      <td align="center" style="padding: 20px;">
+        <h3>Languages</h3>
+        <div>
+          <img src="path_to_language_logo_1" alt="Language 1" width="100" />
+          <img src="path_to_language_logo_2" alt="Language 2" width="100" />
+          <img src="path_to_language_logo_3" alt="Language 3" width="100" />
+        </div>
+      </td>
+      
+      <!-- Other Tools Section -->
+      <td align="center" style="padding: 20px;">
+        <h3>Other Tools</h3>
+        <div>
+          <img src="path_to_tool_logo_1" alt="Tool 1" width="100" />
+          <img src="path_to_tool_logo_2" alt="Tool 2" width="100" />
+          <img src="path_to_tool_logo_3" alt="Tool 3" width="100" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
 
 
     
