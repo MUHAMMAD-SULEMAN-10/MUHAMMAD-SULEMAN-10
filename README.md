@@ -17,7 +17,9 @@ Let’s work together and turn your vision into reality! 🌟
     <li>🤝 <strong>Don't hesitate to reach out! Let's connect and start a conversation!</strong></li>
 </ul>
 
-<h1>🔧 **Skills Set** 💻</h1>
+<body>
+    <!-- Skills Set Heading -->
+    <h1>🔧 **Skills Set** 💻</h1>
     
     <!-- Skills Table -->
     <table border="1" cellpadding="10">
@@ -51,3 +53,4 @@ Let’s work together and turn your vision into reality! 🌟
             </td>
         </tr>
     </table>
+</body>
