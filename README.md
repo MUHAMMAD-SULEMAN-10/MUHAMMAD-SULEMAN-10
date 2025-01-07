@@ -23,7 +23,7 @@ Let’s work together and turn your vision into reality! 🌟
 <tr>
 <th>Frontend</th>
 <td>
-<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s?
+<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s width= "100px" height= "100px"?
     
 </td>
 <th>Backned</th>
