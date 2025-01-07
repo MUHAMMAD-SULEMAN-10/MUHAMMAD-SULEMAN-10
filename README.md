@@ -8,7 +8,7 @@ Let’s work together and turn your vision into reality! 🌟
 
 
 
-    <ul>
+     <ul>
         <li>💻 <strong>Currently Working</strong> as a <strong>MERN Stack Engineer</strong></li>
         <li>🎓 <strong>Teaching</strong> at <a href="https://www.facebook.com/iCodeguru" target="_blank">iCode Guru</a></li>
         <li>🚀 <strong>Actively Participating</strong> in coding competitions and hackathons</li>
