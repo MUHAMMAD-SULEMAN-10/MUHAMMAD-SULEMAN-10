@@ -7,3 +7,14 @@ I love collaborating with others to bring ideas to life and create impactful dig
 Let’s work together and turn your vision into reality! 🌟
 
 
+
+Here's the updated version with a link to LeetCode:
+
+🌟 Hello, I am Muhammad Suleman 👋
+💻 Currently Working as a MERN Stack Engineer
+🎓 Teaching at iCode Guru
+🚀 Actively Participating in coding competitions and hackathons
+🧩 I love tackling complex Data Structures & Algorithms problems on LeetCode in Python
+🎯 2025 Goals: Contribute to more Open Source Projects
+📧 How to reach me: salmanafzal8282@gmail.com
+🤝 Don't hesitate to reach out! Let's connect and start a conversation!
