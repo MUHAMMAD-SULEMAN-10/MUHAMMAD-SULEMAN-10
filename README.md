@@ -17,7 +17,7 @@ Let’s work together and turn your vision into reality! 🌟
     <li>🤝 <strong>Don't hesitate to reach out! Let's connect and start a conversation!</strong></li>
 </ul>
 
-<table border="1" cellpadding="10">
+<table border="1" >
         <tr>
             <th>Frontend</th>
             <th>Backend</th>
