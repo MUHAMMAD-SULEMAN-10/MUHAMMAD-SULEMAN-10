@@ -37,7 +37,6 @@ Let’s work together and turn your vision into reality! 🌟
           <img src="path_to_backend_symbol_3" alt="Backend Language 3" width="50" />
         </div>
       </td>
-      
       <!-- Languages Section -->
       <td align="center" style="padding: 20px;">
         <h3>Languages</h3>
@@ -47,7 +46,6 @@ Let’s work together and turn your vision into reality! 🌟
           <img src="path_to_language_logo_3" alt="Language 3" width="100" />
         </div>
       </td>
-      
       <!-- Other Tools Section -->
       <td align="center" style="padding: 20px;">
         <h3>Other Tools</h3>
@@ -60,10 +58,5 @@ Let’s work together and turn your vision into reality! 🌟
     </tr>
   </table>
 </div>
-      
-    
-
-
-
     
 
