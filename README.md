@@ -26,34 +26,37 @@ Let’s work together and turn your vision into reality! 🌟
       <td align="center" style="padding: 20px;">
         <h3>Frontend Languages</h3>
         <div>
-          <img src="path_to_frontend_logo_1" alt="Frontend Language 1" width="100" />
-          <img src="path_to_frontend_logo_2" alt="Frontend Language 2" width="100" />
-          <img src="path_to_frontend_logo_3" alt="Frontend Language 3" width="100" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" class="small-icon">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" class="small-icon">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" class="small-icon">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" class="small-icon">
         </div>
         <h4>Backend Languages</h4>
         <div>
-          <img src="path_to_backend_symbol_1" alt="Backend Language 1" width="50" />
-          <img src="path_to_backend_symbol_2" alt="Backend Language 2" width="50" />
-          <img src="path_to_backend_symbol_3" alt="Backend Language 3" width="50" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" class="small-icon">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" class="small-icon">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" class="small-icon">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" class="small-icon">
         </div>
       </td>
       <!-- Languages Section -->
       <td align="center" style="padding: 10px;">
         <h3>Languages</h3>
         <div>
-          <img src="path_to_language_logo_1" alt="Language 1" width="100" />
-          <img src="path_to_language_logo_2" alt="Language 2" width="100" />
-          <img src="path_to_language_logo_3" alt="Language 3" width="100" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" class="small-icon">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" class="small-icon">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" class="small-icon">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" class="small-icon">
         </div>
       </td>
       <!-- Other Tools Section -->
       <td align="center" style="padding: 10px;">
         <h3>Other Tools</h3>
         <div>
-          <img src="path_to_tool_logo_1" alt="Tool 1" width="100" />
-          <img src="path_to_tool_logo_2" alt="Tool 2" width="100" />
-          <img src="path_to_tool_logo_3" alt="Tool 3" width="100" />
-        </div>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" class="small-icon">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" class="small-icon">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" class="small-icon">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" class="small-icon">
       </td>
     </tr>
   </table>
