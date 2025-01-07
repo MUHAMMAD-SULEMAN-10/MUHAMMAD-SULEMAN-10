@@ -24,7 +24,7 @@ Let’s work together and turn your vision into reality! 🌟
   <table>
     <tr>
       <!-- Frontend and Backend Section in one column -->
-      <td align="center" style="padding: 20px;">
+      <td align="top-center" style="padding: 20px;">
         <h3>Frontend & Backend</h3>
         <div>
           <h4>Frontend Languages</h4>
