@@ -21,7 +21,7 @@ Let’s work together and turn your vision into reality! 🌟
 
 <table>
 <tr>
-<th>Frontend</th>
+<th><h1>Frontend</h1></th>
 <td>
 <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s width= "100px" height= "100px"> 
 </td>
