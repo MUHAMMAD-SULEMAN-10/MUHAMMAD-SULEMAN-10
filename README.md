@@ -22,7 +22,7 @@ Let’s work together and turn your vision into reality! 🌟
 
 # Programming Languages & Tools
 
-## Frontend Languages
+## Frontend 
 Here are the frontend languages I work with:
 
 <div align="center">
@@ -34,10 +34,11 @@ Here are the frontend languages I work with:
   
   <!-- Backend Language Symbols -->
   <div>
-    <h4>Backend Languages</h4>
-    <img src="path_to_backend_symbol_1" alt="Backend Language 1" width="50"/>
-    <img src="path_to_backend_symbol_2" alt="Backend Language 2" width="50"/>
-    <img src="path_to_backend_symbol_3" alt="Backend Language 3" width="50"/>
+      <h1>Backned</h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="50px" height="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50px" height="50px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="50px" height="50px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="50px" height="50px">
   </div>
 </div>
 
