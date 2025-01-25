@@ -19,14 +19,14 @@ Let’s work together and turn your vision into reality! 🌟
 </ul>
 
 <h1>Skills Set💻:</h1>
-| **Frontend**        | **Languages** | **Others**        |
-|-----------------------|---------------|-------------------|
-| ![FrontendImage1](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png) | ![LangImage1](url) | ![OtherImage1](url) |
-| ![FrontendImage2](url) | ![LangImage2](url) | ![OtherImage2](url) |
-| ![FrontendImage3](url) | ![LangImage3](url) | ![OtherImage3](url) |
-| ![FrontendImage4](url) | ![LangImage4](url) | ![OtherImage4](url) |
-| **Backend**          |               |                   |
-| ![BackendImage1](url)  | ![LangImage5](url) | ![OtherImage5](url) |
-| ![BackendImage2](url)  | ![LangImage6](url) | ![OtherImage6](url) |
-| ![BackendImage3](url)  | ![LangImage7](url) | ![OtherImage7](url) |
-| ![BackendImage4](url)  | ![LangImage8](url) | ![OtherImage8](url) |
+| **Frontend**         | **Languages**        | **Others**          |
+|-----------------------|----------------------|---------------------|
+| ![HTML](https://example.com/html.png) | ![LangImage1](url)   | ![OtherImage1](url) |
+| ![FrontendImage2](url) | ![LangImage2](url)   | ![OtherImage2](url) |
+| ![FrontendImage3](url) | ![LangImage3](url)   | ![OtherImage3](url) |
+| ![FrontendImage4](url) | ![LangImage4](url)   | ![OtherImage4](url) |
+| **Backend**           |                      |                     |
+| ![BackendImage1](url)  | ![LangImage5](url)   | ![OtherImage5](url) |
+| ![BackendImage2](url)  | ![LangImage6](url)   | ![OtherImage6](url) |
+| ![BackendImage3](url)  | ![LangImage7](url)   | ![OtherImage7](url) |
+| ![BackendImage4](url)  | ![LangImage8](url)   | ![OtherImage8](url) |
