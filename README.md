@@ -20,50 +20,14 @@ Let’s work together and turn your vision into reality! 🌟
 
 <h1>Skills Set💻:</h1>
 
-<div align="center">
-  <table>
-    <tr>
-      <!-- Frontend and Backend Section in one column -->
-      <td align="center" style="padding: 20px;">
-        <h3>Frontend & Backend</h3>
-        <div>
-          <h4>Frontend Languages</h4>
-          <div>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="50px" height="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50px" height="50px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="50px" height="50px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="50px" height="50px">
-          </div>
-          <h4 style="margin-top: 20px;>Backend Languages</h4>
-          <div>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="50px" height="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50px" height="50px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="50px" height="50px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="50px" height="50px">
-          </div>
-        </div>
-      </td>
-      <!-- Languages Section at the top, next to Frontend & Backend -->
-      <td align="center" style="padding: 20px;">
-        <h3>Languages</h3>
-        <div>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="50px" height="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50px" height="50px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="50px" height="50px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="50px" height="50px">
-        </div>
-      </td>
-  <!-- Other Tools Section at the top, next to Languages -->
-      <td align="center" style="padding: 20px;">
-        <h3>Other Tools</h3>
-        <div>
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s" width="50px" height="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50px" height="50px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s" width="50px" height="50px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYblUcIW4H3tPxRrLVOCKstsEWPUveoaPk1w&s" width="50px" height="50px">
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+| **Frontend**        | **Languages** | **Others**        |
+|----------------------|---------------|-------------------|
+| HTML                | JavaScript    | Responsive Design |
+| CSS                 | TypeScript    | Accessibility     |
+| Tailwind CSS        | React         | Animations        |
+| Bootstrap           | Vue           | Web Components    |
+| **Backend**         | **Languages** | **Others**        |
+| Node.js             | Python        | REST APIs         |
+| Express.js          | PHP           | GraphQL           |
+| Django              | Java          | Microservices     |
+| Flask               | Ruby          | Serverless        |
