@@ -78,10 +78,10 @@
 </table>
 
 
-
 <a href="https://github.com/MUHAMMAD-SULEMAN-10">
-  <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=MUHAMMAD-SULEMAN-10&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MUHAMMAD-SULEMAN-10&show_icons=true&theme=radical" />
 </a>
+
 
 
 
