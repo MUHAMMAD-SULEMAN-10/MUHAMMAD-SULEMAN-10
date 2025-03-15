@@ -79,6 +79,9 @@
 
 
 
+<a href="https://github.com/MUHAMMAD-SULEMAN-10">
+  <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=MUHAMMAD-SULEMAN-10&hide_border=true" />
+</a>
 
 
 
