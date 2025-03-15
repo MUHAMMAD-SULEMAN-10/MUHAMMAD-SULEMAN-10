@@ -77,8 +77,9 @@
 </tr>
 </table>
 <a href="https://github.com/MUHAMMAD-SULEMAN-10">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MUHAMMAD-SULEMAN-10&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=MUHAMMAD-SULEMAN-10&theme=radical&hide_border=true" />
 </a>
+
 
 
 
